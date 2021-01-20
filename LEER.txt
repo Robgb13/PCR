@@ -1,0 +1,12 @@
+Este proyecto fue creado entre 4 compañeros ante la necesidad de crear una aplicación
+para poder reutilizar e intercambiar entre usuarios diversos residuos los cuales podrian 
+quemarse al acabar su vida útil, y de esa manera disminuir la contaminación de la zona, 
+proporcionando así beneficios como, por ejemplo, la disminución de casos de población con Covid-19 
+(https://www.lavanguardia.com/natural/contaminacion/20201105/49253963405/mas-evidencias-sobre-contaminacion-del-aire-y-riesgo-de-muerte-por-covid-19.html). 
+
+Para el proyecto se utilizó lenguaje Javascript (Frontend) y MySQL (Base de datos).
+Los estilos se hicieron con CSS. 
+
+Algunos frameworks utilizados fueron ReactJS, Node.js, y Bootstrap.
+
+Para generar el API usamos XmySQL.
